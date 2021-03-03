@@ -47,4 +47,4 @@
 
 
 ### Perfil de linkind:
-- ![José Santos](https://www.linkedin.com/in/jose-santos-971459194/)
+- ![José Santos](https://www.linkedin.com/in/jose-santos-971459194)
