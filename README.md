@@ -1,9 +1,9 @@
 ## ¡Bienvenido a mi Github! 👋
 
-### Soy Miguel Ángel Benítez Alguacil, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
+### Soy Miguel Jose Santos Salvador, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
 
 #### En este github voy subiendo distintos proyectos en los que estoy trabajando, como: 
-- Prácticas durante la carrera (tanto de la UGR como de [Åbo Akademi University](https://www.abo.fi/en/about-abo-akademi-university/), donde realicé un curso Erasmus).
+- Prácticas durante la carrera 
 - Proyectos propios.
 - Cursos en los que he participado.
 
@@ -25,7 +25,7 @@
 
 ### Software:
 
-<a href="https://www.photoshop.com/" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/photoshop.png"/> </a>
+
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/illustrator.png"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/visual.png"/> </a>
 <a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/unity.png"/> </a>
