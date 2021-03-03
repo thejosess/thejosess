@@ -27,7 +27,6 @@
 ### Software:
 
 
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/illustrator.png"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/visual.png"/> </a>
 <a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/unity.png"/> </a>
 
@@ -38,3 +37,7 @@
 
 
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/django.png"/> </a>
+
+### Cursos que he realizado:
+- Curso TDD
+https://github.com/RakutenTeam/IncidenciasTrafico
