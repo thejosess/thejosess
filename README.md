@@ -29,7 +29,7 @@
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/visual.png"/> </a>
 <a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/unity.png"/> </a>
-<a href="https://www.vim.org/" target="_blank"> <img align="left" alt="Vim" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/vim.svg"/> </a>
+<a href="https://www.vim.org/" target="_blank"> <img align="left" alt="Vim" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/vim.png"/> </a>
 
 <br />
 <br />
