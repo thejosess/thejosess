@@ -46,5 +46,5 @@
 - ![Curso TDD](https://github.com/RakutenTeam/IncidenciasTrafico)
 
 
-### Perfil de linkind:
+### Perfil de LinkedIn:
 - ![José Santos](https://www.linkedin.com/in/jose-santos-971459194)
