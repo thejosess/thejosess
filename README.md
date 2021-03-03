@@ -38,6 +38,8 @@
 
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/django.png"/> </a>
 
+<br />
+<br />
+
 ### Cursos que he realizado:
-- Curso TDD
-https://github.com/RakutenTeam/IncidenciasTrafico
+- ![Curso TDD](https://github.com/RakutenTeam/IncidenciasTrafico)
