@@ -10,7 +10,8 @@
 
 ### Lenguajes y Herramientas:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/html.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/html.png" /><a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/css.png" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/thejosess/thejosess/blob/main/images/c.png"/> </a>
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="30px" src="https://github.com/thejosess/thejosess/blob/main/images/java.png"/> </a>
