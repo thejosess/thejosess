@@ -1,6 +1,6 @@
 ## ¡Bienvenido a mi Github! 👋
 
-### Soy Miguel Jose Santos Salvador, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
+### Soy Jose Santos Salvador, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
 
 #### En este github voy subiendo distintos proyectos en los que estoy trabajando, como: 
 - Prácticas durante la carrera 
@@ -44,3 +44,7 @@
 
 ### Cursos que he realizado:
 - ![Curso TDD](https://github.com/RakutenTeam/IncidenciasTrafico)
+
+
+### Perfil de linkind:
+- ![José Santos](https://www.linkedin.com/in/jose-santos-971459194/)
