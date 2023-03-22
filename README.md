@@ -1,6 +1,6 @@
 ## ¡Bienvenido a mi Github! 👋
 
-### Soy Jose Santos Salvador, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
+### Soy Jose Santos Salvador, graduado en Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/) y desarrollador software.
 
 #### En este github voy subiendo distintos proyectos en los que estoy trabajando, como: 
 - Prácticas durante la carrera 
